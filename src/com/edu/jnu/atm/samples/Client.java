@@ -30,6 +30,8 @@ public class Client {
 	public static void main(String args[]) throws Exception
 	{		
 		String DEV_CODE = "";
+		
+		
 		String TRNS_DATE = "";
 		int NumberOfPredictingDate = 0;
 		
